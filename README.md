@@ -1,0 +1,3 @@
+# popoverSample
+-
+这个demo演示了如何在iOS8以上的系统中使用popover显示一个自定义的视图
